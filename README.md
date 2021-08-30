@@ -1,3 +1,4 @@
 # adk
 # musicPlayer
 # albumView
+# artistView 
